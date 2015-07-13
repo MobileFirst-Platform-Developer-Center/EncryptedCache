@@ -1,13 +1,13 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
+### Storing sensitive data in encrypted cache
 
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
-
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/data/storing-sensitive-data-in-encrypted-cache/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
